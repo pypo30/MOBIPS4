@@ -44,7 +44,7 @@
       }
     ],
     "favicon": false,
-    "mbrsiteDomain": "h9w5d0ack4",
+    "mbrsiteDomain": "rprluywwyk",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -54,7 +54,8 @@
     "gdpr": false,
     "uniqCompNum": 4,
     "versionPublish": "5.7.4",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
